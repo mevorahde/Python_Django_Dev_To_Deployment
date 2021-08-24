@@ -61,9 +61,15 @@ coverage.xml
 
 # Django stuff:
 *.log
+*.pot
+*.pyc
+__pycache__
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+media
+venv
+btre_project/btre/settings.py
 
 # Flask stuff:
 instance/
